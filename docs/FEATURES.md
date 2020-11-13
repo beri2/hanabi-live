@@ -64,7 +64,7 @@ Read through this page (or use [`Ctrl + f`](https://www.google.com/search?q=ctrl
   - Arrows with a gray border indicate that they are re-touching a card that has been previously touched by one or more positive clues.
 - An orange border around a card signifies that it has been "touched" by one or more positive clues. The card will also be raised slightly.
 - The game will keep track of the clues that accumulate on cards, "filling them in" when appropriate.
-- You can hold down the left mouse button or tap and hold on someone else's hand to see how it appears to them. (This is referred to as "empathy".)
+- You can hold down the left mouse button or tap and hold on someone else's hand to see how it appears to them. (This is referred to as "empathy".) You can also press the Space bar on your keyboard to see all players’ hands as they appear to them.
 
 #### Pips
 
